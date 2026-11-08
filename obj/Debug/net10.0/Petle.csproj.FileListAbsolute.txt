@@ -1,0 +1,14 @@
+C:\Users\s37379\C#\petle\bin\Debug\net10.0\Petle.exe
+C:\Users\s37379\C#\petle\bin\Debug\net10.0\Petle.deps.json
+C:\Users\s37379\C#\petle\bin\Debug\net10.0\Petle.runtimeconfig.json
+C:\Users\s37379\C#\petle\bin\Debug\net10.0\Petle.dll
+C:\Users\s37379\C#\petle\bin\Debug\net10.0\Petle.pdb
+C:\Users\s37379\C#\petle\obj\Debug\net10.0\Petle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37379\C#\petle\obj\Debug\net10.0\Petle.AssemblyInfoInputs.cache
+C:\Users\s37379\C#\petle\obj\Debug\net10.0\Petle.AssemblyInfo.cs
+C:\Users\s37379\C#\petle\obj\Debug\net10.0\Petle.csproj.CoreCompileInputs.cache
+C:\Users\s37379\C#\petle\obj\Debug\net10.0\Petle.dll
+C:\Users\s37379\C#\petle\obj\Debug\net10.0\refint\Petle.dll
+C:\Users\s37379\C#\petle\obj\Debug\net10.0\Petle.pdb
+C:\Users\s37379\C#\petle\obj\Debug\net10.0\Petle.genruntimeconfig.cache
+C:\Users\s37379\C#\petle\obj\Debug\net10.0\ref\Petle.dll
