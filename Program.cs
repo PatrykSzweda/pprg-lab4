@@ -45,5 +45,5 @@ Console.WriteLine("");
 Console.WriteLine("Start!");
 
 // Która pętla najczytelniej opisuje znaną liczbę powtórzeń? - for;
-// Ile razy wykona się while, jeśli jej warunek od początku jest fałszywy? - 0;
+// Ile razy wykona się while, jeśli jej warnek od początku jest fałszywy? - 0;
 // Ile razy w tej samej sytuacji wykona się do-while? - 1;
