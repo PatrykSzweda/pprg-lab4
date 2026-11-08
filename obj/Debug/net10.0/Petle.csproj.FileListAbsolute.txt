@@ -12,3 +12,4 @@ C:\Users\s37379\C#\petle\obj\Debug\net10.0\refint\Petle.dll
 C:\Users\s37379\C#\petle\obj\Debug\net10.0\Petle.pdb
 C:\Users\s37379\C#\petle\obj\Debug\net10.0\Petle.genruntimeconfig.cache
 C:\Users\s37379\C#\petle\obj\Debug\net10.0\ref\Petle.dll
+C:\Users\s37379\C#\Petle\obj\Debug\net10.0\Petle.sourcelink.json
